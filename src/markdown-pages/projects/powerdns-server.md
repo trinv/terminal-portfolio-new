@@ -1,14 +1,14 @@
 ---
-slug: "projects/country-quiz"
+slug: "projects/powerdns-server"
 nameOfClass: "projects-items"
-added: "2021-08-07"
-title: "Country Quiz"
+added: "2024-11-12"
+title: "Install DNS Server using PowerDNS & PowerDNS-Admin"
 video: "false"
-listName: "🌎 /Country Quiz"
-popupImageSrc: "country-quiz.webp"
-popupImageAlt: "Country Quiz screenshot"
-popupLiveLink: "https://country-quiz.pantak.net/"
-popupGithubLink: "https://github.com/Kielx/country-quiz"
+listName: "🌎 /PowerDNS"
+popupImageSrc: "powerdns-admin-dashboard.png"
+popupImageAlt: "PowerDNS-Admin Dashboard"
+popupLiveLink: "https://github.com/trinv/PowerDNS"
+popupGithubLink: "https://github.com/trinv/PowerDNS"
 techIcons: [
         "react",
         "html5",
