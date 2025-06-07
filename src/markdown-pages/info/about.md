@@ -4,8 +4,8 @@ video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "trinvphoto.jpg"
-popupImageAlt: "Cartoon photo of myself"
-popupGithubLink: "[https://github.com/trinv](https://github.com/trinv)"
+popupImageAlt: "trinvphoto.jpg"
+popupGithubLink: "https://github.com/trinv"
 techIcons: [
         "python",
         "postman",
