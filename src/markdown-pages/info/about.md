@@ -21,6 +21,7 @@ techIcons: [
 - 💡 Experienced DNS Engineer with 7+ years in designing secure, high-performance DNS architectures. Skilled in DNSSEC implementation, record management, and advanced troubleshooting. Committed to delivering reliable DNS solutions that enhance performance and ensure a strong online presence.
 - 👨‍🎓 Bachelor's degree of Electronics and Telecommunication at the Danang University of Science and Technology. 
 - ⚡ Skills.
+
 ✅DNS Architecture Design: Comprehensive understanding of DNS infrastructure and best practices for designing scalable and high-performance architectures.
 
 ✅DNS Management: Domain registration, zone configuration, and record management (A, CNAME, MX, etc.) across various DNS servers.
