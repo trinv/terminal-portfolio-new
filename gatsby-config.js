@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Krzysztof Pantak Portfolio`,
-    titleTemplate: `%s | Krzysztof Pantak Portfolio`,
+    title: `Tri Nguyen Portfolio`,
+    titleTemplate: `%s | Tri Nguyen Portfolio`,
     description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
     author: `@KrzysztofPantak`,
     url: "https://pantak.net",
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Krzysztof Pantak Portfolio`,
-        short_name: `Krzysztof Pantak Portfolio`,
+        name: `Tri Nguyen Portfolio`,
+        short_name: `Tri Nguyen Portfolio`,
         start_url: `/`,
         background_color: `#1b2d3a`,
         theme_color: `#1b2d3a`,
