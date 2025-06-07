@@ -31,20 +31,19 @@ techIcons: [
 ✅DNS Performance Optimization: Fine-tuning DNS configurations, caching mechanisms, and load balancing to improve query response times and overall system performance.
 
 ✅Troubleshooting and Issue Resolution: Proficient in identifying and resolving DNS-related issues, such as DNS propagation, resolution failures, and misconfigured records.
-Services I Offer:
 
-DNS Architecture Design and Implementation:
+✨ DNS Architecture Design and Implementation:
 
 - Assessment of your current DNS infrastructure and identification of areas for improvement.
 - Design and implementation of scalable and resilient DNS architectures tailored to your specific needs.
 - Integration of multiple DNS servers for load balancing and redundancy.
 
-DNS Management and Optimization:
+✨ DNS Management and Optimization:
 - Domain registration and management, including DNS zone configuration and record updates.
 - DNS performance analysis and optimization to enhance query response times and reduce latency.
 - Caching strategies and implementation to improve overall DNS performance.
 
-DNSSEC Implementation and Security:
+✨ DNSSEC Implementation and Security:
 - Implementation of DNSSEC to protect against DNS forgery, data tampering, and cache poisoning attacks.
 - Key generation, signing, and deployment of DNSSEC records.
 - Regular monitoring and maintenance of DNSSEC configurations.
