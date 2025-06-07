@@ -7,10 +7,10 @@ module.exports = {
     title: `Tri Nguyen Portfolio`,
     titleTemplate: `%s | Tri Nguyen Portfolio`,
     description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
-    author: `@KrzysztofPantak`,
-    url: "https://pantak.net",
+    author: `@trinv`,
+    url: "https://whoami.id.vn",
     image: "/PortfolioSS-sm.png", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@KrzysztofPantak",
+    twitterUsername: "@Hi_im_bim",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -33,7 +33,7 @@ module.exports = {
         background_color: `#1b2d3a`,
         theme_color: `#1b2d3a`,
         display: `minimal-ui`,
-        icon: `src/images/mojePhotoSquare.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/trinvphoto.jpg`, // This path is relative to the root of the site.
       },
     },
     {
